@@ -39,7 +39,7 @@
 <h3>Mobile</h3>
 
 <p>
-  As seguintes ferramentas foram usadas na construção do projeto:
+  As principais tecnologias que foram usadas na construção do projeto:
 </p>
 
 - [Expo](https://expo.io/)
