@@ -4,6 +4,10 @@
 
 <h1 align="center">Bin2Dec</h1>
 
+<h4 align="center"> 
+	🚧  Projeto em desenvolvimento...  🚧
+</h4>
+
 <p align="center">
  <a href="#descricao">Descrição</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
@@ -19,11 +23,10 @@
 
 <h2 id="funcionalidades">Funcionalidades</h2>
 
-<ol>
-  <li>O usuário pode inserir até 8 dígitos binários em um campo de entrada.</li>
-  <li>O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido.</li>
-  <li>O usuário deve ver o valor binário inserido assim como o resultado da conversão ().</li>
-</ol>
+- [x] O usuário pode inserir até 8 dígitos binários em um campo de entrada;
+- [x] O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido;
+- [x] O usuário deve ver o valor binário inserido assim como o resultado da conversão (em decimal);
+- [ ] Animações.
 
 <h2 id="tecnologias">Tecnologias</h2>
 
