@@ -30,4 +30,11 @@
 
 <h2 id="tecnologias">Tecnologias</h2>
 
+<p>
+  As seguintes ferramentas foram usadas na construção do projeto:
+</p>
+
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+
 <h2 id="contribuicao">Contribuição</h2>
