@@ -21,14 +21,22 @@
   Projeto proposto por <strong><a href="https://github.com/florinpop17/app-ideas">Florin Pop</a></strong> , com o intuito de que os desenvolvedores entendam matemática binária ou de base 2. O objetivo do Bin2Dec é fornecer prática e compreensão de como os cálculos binários são realizados.
 </p>
 
-<h2 id="funcionalidades">Funcionalidades</h2>
+<h2 id="funcionalidades">
+  <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji>
+  Funcionalidades
+</h2>
 
 - [x] O usuário pode inserir até 8 dígitos binários em um campo de entrada;
 - [x] O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido;
 - [x] O usuário deve ver o valor binário inserido assim como o resultado da conversão (em decimal);
 - [ ] Animações.
 
-<h2 id="tecnologias">Tecnologias</h2>
+<h2 id="tecnologias">
+  <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>
+  Tecnologias
+</h2>
+
+<h3>Mobile</h3>
 
 <p>
   As seguintes ferramentas foram usadas na construção do projeto:
@@ -37,4 +45,11 @@
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
 
-<h2 id="contribuicao">Contribuição</h2>
+<blockquote>
+  <p>Veja o arquivo <a href="">package.json</a></p>
+</blockquote>
+
+<h2 id="contribuicao">
+  <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
+  Contribuição
+</h2>
