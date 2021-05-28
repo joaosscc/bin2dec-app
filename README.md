@@ -11,8 +11,7 @@
 <p align="center">
  <a href="#descricao">Descrição</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> 
+ <a href="#tecnologias">Tecnologias</a>
 </p>
 
 <h2 id="descricao">Descrição</h2>
@@ -48,8 +47,3 @@
 <blockquote>
   <p>Veja o arquivo <a href="">package.json</a></p>
 </blockquote>
-
-<h2 id="contribuicao">
-  <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
-  Contribuição
-</h2>
