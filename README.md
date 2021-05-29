@@ -14,6 +14,10 @@
  <a href="#tecnologias">Tecnologias</a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/joaosscc/banners-projetos/blob/main/bin2dec-gif.gif">
+</p>
+
 <h2 id="descricao">📝 Descrição</h2>
 
 <p>
@@ -45,5 +49,5 @@
 - [React Native](https://reactnative.dev/)
 
 <blockquote>
-  <p>Veja o arquivo <a href="">package.json</a></p>
+  <p>Veja o arquivo <a href="https://github.com/joaosscc/bin2dec-app/blob/main/package.json">package.json</a></p>
 </blockquote>
