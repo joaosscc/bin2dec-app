@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/joaosscc/banners-projetos/blob/main/bin2dec.svg" height="400" width="1280">
+  <img src="https://github.com/joaosscc/bin2dec-app/blob/main/img-readme/bin2dec.svg" height="400" width="1280">
 </p>
 
 <h1 align="center">Bin2Dec</h1>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/joaosscc/banners-projetos/blob/main/bin2dec-gif.gif">
+  <img src="https://github.com/joaosscc/bin2dec-app/blob/main/img-readme/bin2dec.gif">
 </p>
 
 <h2 id="descricao">📝 Descrição</h2>
