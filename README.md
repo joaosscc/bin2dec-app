@@ -14,7 +14,7 @@
  <a href="#tecnologias">Tecnologias</a>
 </p>
 
-<h2 id="descricao">Descrição</h2>
+<h2 id="descricao">📝 Descrição</h2>
 
 <p>
   Projeto proposto por <strong><a href="https://github.com/florinpop17/app-ideas">Florin Pop</a></strong> , com o intuito de que os desenvolvedores entendam matemática binária ou de base 2. O objetivo do Bin2Dec é fornecer prática e compreensão de como os cálculos binários são realizados.
