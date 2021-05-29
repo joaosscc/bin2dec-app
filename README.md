@@ -14,6 +14,10 @@
  <a href="#tecnologias">Tecnologias</a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/joaosscc/banners-projetos/blob/main/bin2dec-gif.gif">
+</p>
+
 <h2 id="descricao">📝 Descrição</h2>
 
 <p>
