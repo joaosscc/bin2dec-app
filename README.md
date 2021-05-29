@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/joaosscc/img-projetos/blob/main/bin2dec.svg" height="400" width="1280">
+  <img src="https://github.com/joaosscc/banners-projetos/blob/main/bin2dec.svg" height="400" width="1280">
 </p>
 
 <h1 align="center">Bin2Dec</h1>
