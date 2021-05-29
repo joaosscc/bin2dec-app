@@ -45,5 +45,5 @@
 - [React Native](https://reactnative.dev/)
 
 <blockquote>
-  <p>Veja o arquivo <a href="">package.json</a></p>
+  <p>Veja o arquivo <a href="https://github.com/joaosscc/bin2dec-app/blob/main/package.json">package.json</a></p>
 </blockquote>
