@@ -69,11 +69,8 @@ $ yarn install
 ```bash
 # Execute a aplicação
 $ yarn start
+# Uma janela em seu navegador deverá abrir, baixe o app do Expo na loja do seu smartphone e escaneie o QR code no seu navegador.
 ```
-<p>
-  Uma janela em seu navegador deverá abrir, baixe o app do Expo na loja do seu smartphone e escaneie o QR code no seu navegador.
-</p>
-
 <p>
   As principais tecnologias que foram usadas na construção do projeto:
 </p>
