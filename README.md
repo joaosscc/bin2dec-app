@@ -9,6 +9,13 @@
 </h4>
 
 <p align="center">
+ <img src="https://img.shields.io/github/issues/joaosscc/bin2dec-app?style=for-the-badge"/>
+ <img src="https://img.shields.io/github/forks/joaosscc/bin2dec-app?style=for-the-badge"/>
+ <img src="https://img.shields.io/github/stars/joaosscc/bin2dec-app?style=for-the-badge"/>
+ <img src="https://img.shields.io/github/license/joaosscc/bin2dec-app?style=for-the-badge"/>
+</p>
+
+<p align="center">
  <a href="#descricao">Descrição</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#tecnologias">Tecnologias</a>
