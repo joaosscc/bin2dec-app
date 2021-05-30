@@ -46,7 +46,7 @@
   Tecnologias
 </h2>
 
-<h3>Mobile</h3>
+<h3>:iphone: Mobile</h3>
 
 <p>
   As principais tecnologias que foram usadas na construção do projeto:
