@@ -56,8 +56,21 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/joaosscc/bin2dec-app.git>
+$ git clone https://github.com/joaosscc/bin2dec-app.git
 ```
+```bash
+# Acesse a pasta do projeto no terminal/cmd
+$ cd bin2dec-app
+```
+```bash
+# Instale as dependências
+$ yarn install
+```
+```bash
+# Execute a aplicação
+$ yarn start
+```
+Uma janela em seu navegador deverá abrir, baixe o app do Expo na loja do seu smartphone e escaneie o QR code no seu navegador.
 
 <p>
   As principais tecnologias que foram usadas na construção do projeto:
