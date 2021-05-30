@@ -48,6 +48,17 @@
 
 <h3>:iphone: Mobile</h3>
 
+<h4>📦 Pré-requisitos</h4>
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Expo](https://docs.expo.io/). Além disto é bom ter um editor para trabalhar com o código como, [VSCode](https://code.visualstudio.com/)
+
+<h4>🎲 Rodando a aplicação</h4>
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/joaosscc/bin2dec-app.git>
+```
+
 <p>
   As principais tecnologias que foram usadas na construção do projeto:
 </p>
@@ -60,3 +71,4 @@
 <blockquote>
   <p>Veja o arquivo <a href="https://github.com/joaosscc/bin2dec-app/blob/main/package.json">package.json</a></p>
 </blockquote>
+
