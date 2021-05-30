@@ -53,7 +53,9 @@
 </p>
 
 - [Expo](https://expo.io/)
+- [Ract](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [Axios](https://github.com/axios/axios)
 
 <blockquote>
   <p>Veja o arquivo <a href="https://github.com/joaosscc/bin2dec-app/blob/main/package.json">package.json</a></p>
